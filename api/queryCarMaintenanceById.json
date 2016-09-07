@@ -1,0 +1,76 @@
+{
+  "resultCode": "1",
+  "msg": "操作成功",
+  "data": {
+    "record":{
+      "maintenanceItems": [
+      {
+        "categoryId": 1,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 3,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 7,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 5,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 10,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 0,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 0,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 0,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 0,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 0,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 0,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 0,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      },
+      {
+        "categoryId": 0,
+        "categoryName": "很少说话",
+        "imgUrl": ""
+      }
+    ]
+      }
+    }
+  }
+}

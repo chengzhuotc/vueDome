@@ -1,0 +1,56 @@
+{
+    "resultCode": "1",
+    "msg": "操作成功",
+    "data": {
+        "kilometer": 100,
+        "onRoadTime": 0,
+        "lastMaintenanceTime": 0,
+        "recordList": [
+            {
+                "aopsID": 0,
+                "createTime": 1279843200000,
+                "frameNo": "",
+                "id": 0,
+                "kilometer": 0,
+                "maintenanceTime": 1279843200000,
+                "price": "",
+                "maintenanceItems": [
+                    {
+                        "categoryId": 0,
+                        "categoryName": "1"
+                    }
+                ]
+            },
+            {
+                "aopsID": 0,
+                "createTime": 1469703789000,
+                "frameNo": "",
+                "id": 0,
+                "kilometer": 0,
+                "maintenanceTime": 1469703789000,
+                "price": "",
+                "maintenanceItems": [
+                    {
+                        "categoryId": 0,
+                        "categoryName": "2"
+                    }
+                ]
+            },
+            {
+                "aopsID": 0,
+                "createTime": 1469703815000,
+                "frameNo": "",
+                "id": 0,
+                "kilometer": 0,
+                "maintenanceTime": 1469703815000,
+                "price": "",
+                "maintenanceItems": [
+                    {
+                        "categoryId": 0,
+                        "categoryName": "3"
+                    }
+                ]
+            }
+        ]
+    }
+}
